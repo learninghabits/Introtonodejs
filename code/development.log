@@ -1,0 +1,16 @@
+
+info [Tue Apr 04 2017 06:33:13 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a message
+warn [Tue Apr 04 2017 06:33:13 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a warning
+error [Tue Apr 04 2017 06:33:13 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a error
+
+info [Tue Apr 04 2017 06:39:11 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a message
+warn [Tue Apr 04 2017 06:39:11 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a warning
+error [Tue Apr 04 2017 06:39:11 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a error
+
+info [Tue Apr 04 2017 06:40:03 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a message
+warn [Tue Apr 04 2017 06:40:03 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a warning
+error [Tue Apr 04 2017 06:40:03 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a error
+
+info [Tue Apr 04 2017 06:49:50 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a message
+warn [Tue Apr 04 2017 06:49:50 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a warning
+error [Tue Apr 04 2017 06:49:50 GMT+0200 (South Africa Standard Time)]  Hi, I just logged a error
